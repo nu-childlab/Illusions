@@ -1,5 +1,7 @@
 # Illusions
-An experiment for mechanical turk; uses jspsych for HTML/CSS/Javascript
+An experiment for mechanical turk; uses jspsych for HTML/CSS/Javascript.
+
+This experiment does not have the configuration code from Firebase. In order to use it, you must make a firebase project and put the configuration in the code. (If you're in the childlab, the configuration info for this project is on Box. Look in the Illusions experiment folder for it, or get it from the illusions firebase project.)
 
 ## Dependencies
 
